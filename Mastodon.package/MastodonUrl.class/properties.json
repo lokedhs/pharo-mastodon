@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Mastodon",
+	"classinstvars" : [
+		"servers"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"url",
+		"clientId",
+		"clientSecret"
+	],
+	"name" : "MastodonUrl",
+	"type" : "normal"
+}

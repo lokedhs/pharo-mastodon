@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Mastodon",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"username",
+		"url",
+		"createdAt",
+		"id",
+		"acct",
+		"note",
+		"followersCount",
+		"followingCount"
+	],
+	"name" : "MastodonAccount",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Mastodon",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"acct",
+		"content"
+	],
+	"name" : "MastodonStatus",
+	"type" : "normal"
+}
