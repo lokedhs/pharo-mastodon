@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "ComposablePresenter",
+	"category" : "Mastodon-Client",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"messageList",
+		"titleLabel",
+		"testButton",
+		"clickCount"
+	],
+	"name" : "Timeline",
+	"type" : "normal"
+}
