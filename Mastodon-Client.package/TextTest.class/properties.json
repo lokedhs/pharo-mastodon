@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "ComposablePresenter",
+	"super" : "ComposableModel",
 	"category" : "Mastodon-Client",
 	"classinstvars" : [ ],
 	"pools" : [ ],
