@@ -1,0 +1,4 @@
+initialization
+initialize
+	content := '' asText.
+	

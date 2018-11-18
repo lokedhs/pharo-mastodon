@@ -4,16 +4,12 @@
 	"category" : "Mastodon-Client",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [
-		"client"
-	],
+	"classvars" : [ ],
 	"instvars" : [
-		"messageList",
-		"titleLabel",
-		"testButton",
-		"clickCount",
-		"messages"
+		"message",
+		"content",
+		"fromLabel"
 	],
-	"name" : "Timeline",
+	"name" : "MessageModel",
 	"type" : "normal"
 }

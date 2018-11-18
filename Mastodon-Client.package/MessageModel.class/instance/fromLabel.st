@@ -1,0 +1,3 @@
+initialization
+fromLabel
+	^fromLabel

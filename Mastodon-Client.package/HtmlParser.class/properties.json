@@ -1,14 +1,15 @@
 {
 	"commentStamp" : "",
 	"super" : "Object",
-	"category" : "Mastodon",
+	"category" : "Mastodon-Client",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [
-		"acct",
+	"classvars" : [
 		"content"
 	],
-	"name" : "MastodonStatus",
+	"instvars" : [
+		"iterateNodes"
+	],
+	"name" : "HtmlParser",
 	"type" : "normal"
 }
